@@ -23,6 +23,8 @@ and apply them to HTTP content provided by your application via Connectors.
 If you are looking for ModSecurity for Apache (aka ModSecurity v2.x), it is still under maintenance and available:
 [here](https://github.com/owasp-modsecurity/ModSecurity/tree/v2/master).
 
+[NGINX](https://www.nginx.com/blog/compiling-and-installing-modsecurity-for-open-source-nginx).
+
 ### What is the difference between this project and the old ModSecurity (v2.x.x)?
 
 * All Apache dependencies have been removed
